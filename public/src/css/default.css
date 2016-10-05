@@ -1,0 +1,81 @@
+body {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+#fecha, #fecha1 {
+    padding-right: 15px;
+    padding-left: 15px;
+}
+.errorow {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+.informacionEvento {
+    padding-left: 50px;
+    padding-right: 50px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 5px;
+    border-color: #ddd;
+}
+.columnaDato {
+    width: 300px;
+    font-weight: bold;
+}
+.fc-time-grid-event .fc-time {
+    font-size: 1em;
+}
+.icono {
+    display: inline-flex;
+}
+.iconos {
+    width: 80px;
+}
+.divIconos {
+    display: inline-flex;
+}
+a.icono {
+    margin-left: 5px;
+}
+.btnInscribir {
+    margin-bottom: 10px;
+    float: right;
+    margin-top: -45px;
+}
+.fileUpload {
+    position: relative;
+    overflow: hidden;
+    margin: 10px;
+}
+.fileUpload input.upload {
+    position: absolute;
+    top: 0;
+    right: 0;
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+    cursor: pointer;
+    opacity: 0;
+    filter: alpha(opacity=0);
+}
+.contenidoMenu {
+    width: 98%;
+    height: 98%;
+    margin-top: 17px;
+}
+li.editarLargo { 
+    width: 100%;
+}
+#editarForm {
+    width: 98%;
+    margin-top: 17px;
+    margin-bottom: 17px;
+}
+.btnDerecha {
+    float:right;
+    margin-bottom: 17px;
+    margin-right: 15px;
+}
+.col-md-2.margenUp {
+    margin-top: 25px;
+}
